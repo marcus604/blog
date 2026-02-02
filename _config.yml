@@ -1,1 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+theme: minima
+
+
+author: Marcus
+
+
