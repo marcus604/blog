@@ -48,11 +48,11 @@ ive also included a basic mock of the UI
 
 My drawing skills are essentially zero, please excuse what was supposed to be a stick figure shooting a cowboy that looks more like a old defenseless woman being shot. 
 
-![hand it over you old biddy!](/assets/images/2026-02-01-generate_posters/ui_mock.png)
+![hand it over you old biddy!]({{ site.baseurl }}/assets/images/2026-02-01-generate_posters/ui_mock.png)
 
 Depending on how much success I have with more instances of this I may pivot to some WYSIWYG tool so the LLM has a better chance of interpreting what I want but theres something nice about quickly drawing it on the iPad in 2 minutes.
 
 Claude then asked some clarifying info, ill note that Claude doesnt seem to have a good way to either export out this workflow nor does it let me view these questions after the fact 
 
-![](/assets/images/2026-02-01-generate_posters/claude_missing.png)
+![]({{ site.baseurl }}/assets/images/2026-02-01-generate_posters/claude_missing.png)
 
